@@ -11,16 +11,17 @@ export async function GET() {
   // 1. Check external fetch capability
   try {
     const t = Date.now();
-    const resp = await fetch('https://example.com', {
-      signal: AbortSignal.timeout(5000),
+    const resp = await fetch('https://httpbin.org/status/200', {
+      signal: AbortSignal.timeout(8000),
     });
     checks.externalFetch = {
       status: resp.ok ? 'ok' : 'degraded',
       latency: Date.now() - t,
     };
   } catch (err) {
+    // Non-critical - Vercel serverless can have restrictions
     checks.externalFetch = {
-      status: 'error',
+      status: 'degraded',
       message: err instanceof Error ? err.message : 'Unknown',
     };
   }
